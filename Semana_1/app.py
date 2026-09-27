@@ -2,7 +2,7 @@
 #Librerias
 import streamlit as st
 from sklearn.linear_model import LinearRegression
-import numpy as np
+import numpy as np 
 
 #Er. stremlit vamos a agregar un titulo a la pagina web
 st.title("Configuracion inicial")
